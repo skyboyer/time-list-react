@@ -46,7 +46,7 @@
       "<rootDir>/src/jest.config.js"
     ],
     "collectCoverageFrom": [
-      "<rootDir>/src/**/*.{js,jsx,json}",
+      "<rootDir>/src/**/*.{js,jsx}",
       "!<rootDir>/src/toBeWithinRange.js"
     ],
     "coverageThreshold": {
